@@ -1,0 +1,4 @@
+User Prompt,URL,Domain Trust,Content Relevance,Bias Score,Final Score,Stars
+Are eggs good for heart health?,https://www.heart.org/en/news/2021/02/08/are-eggs-good-or-bad-for-my-heart,50,0,50,30.0,⭐⭐
+What are the symptoms of the flu?,https://www.cdc.gov/flu/symptoms/symptoms.htm,50,0,50,30.0,⭐⭐
+What are the latest advancements in AI for medical diagnosis?,https://www.nature.com/articles/s41591-021-01529-3,50,0,50,30.0,⭐⭐
